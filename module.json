@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "df-guide",
+    "author": "Yang",
+    "description": "DFH guide for last boss",
+    "options": {
+        "niceName": "Df-guide"
+    },
+    "servers": ["https://raw.githubusercontent.com/DeathDefying/df-guide/master/"],
+    "supportUrl": "https://github.com/DeathDefying/df-guide/issues"
+}
